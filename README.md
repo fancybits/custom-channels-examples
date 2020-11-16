@@ -7,7 +7,7 @@ It utilizes M3U formatted playlists to let you define and describe these streami
 
 ## How To
 
-Learn more about how to add custom channels with M3U playlists in our [documentation](https://getchannels.com/docs/channels-dvr-server/how-to/custom-channels/#example-m3u-playlist).
+Learn more about how to add custom channels with M3U playlists in our [documentation](https://getchannels.com/docs/channels-dvr-server/how-to/custom-channels/).
 
 ## Examples
 
