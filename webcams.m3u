@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 channel-id="JPCAM" channel-number="9540" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/beach-logo.png" tvg-name="JPCAM" tvc-guide-title="Jennette's Pier" tvc-guide-description="Live beach cam at Jennette's Pier" tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/beach-guide.png",JPCAM
+https://5a5f765a4fcc2.streamlock.net:1936/live/nh4.stream/playlist.m3u8
+
+#EXTINF:-1 channel-id="PCAM" channel-number="9541" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-logo.png" tvg-name="PPCAM" tvc-guide-title="Platypus Cam" tvc-guide-description="Live platypus cam from the San Diego Zoo." tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-guide.png",PCAM
+https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
+
+#EXTINF:-1 channel-id="NYCCAM" channel-number="9542" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/time-square-logo.png" tvg-name="PPCAM" tvc-guide-title="Times Square Live Cam" tvc-guide-description="Live shot of Times Square in New York City." tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/time-square-guide.png",NYCCAM
+https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
