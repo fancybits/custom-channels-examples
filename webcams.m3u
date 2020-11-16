@@ -5,5 +5,5 @@ https://5a5f765a4fcc2.streamlock.net:1936/live/nh4.stream/playlist.m3u8
 #EXTINF:-1 channel-id="PCAM" channel-number="751" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-logo.png" tvg-name="PCAM" tvc-guide-title="Platypus Cam" tvc-guide-description="Live platypus cam from the San Diego Zoo." tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/platypus-guide.png",PCAM
 https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
 
-#EXTINF:-1 channel-id="NYCCAM" channel-number="752" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/time-square-logo.png" tvg-name="NYCCAM" tvc-guide-title="Times Square Live Cam" tvc-guide-description="Live shot of Times Square in New York City." tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/time-square-guide.png",NYCCAM
-https://videos3.earthcam.com/fecnetwork/4017timessquare.flv/chunklist_w2120301051.m3u8
+#EXTINF:-1 channel-id="TCAM" channel-number="752" tvg-logo="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/traffic-logo.png" tvg-name="TCAM" tvc-guide-title="Bay Bridge Traffic Cam" tvc-guide-description="Live shot of traffic on the Bay Bridge." tvc-guide-art="https://github.com/fancybits/custom-channels-examples/raw/main/webcams/traffic-guide.png",TCAM
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
