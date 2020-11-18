@@ -11,4 +11,6 @@ Learn more about how to add custom channels with M3U playlists in our [documenta
 
 ## Examples
 
-Web Cams - [webcams.m3u](/webcams.m3u)
+Add these M3U playlists to Channels to see how you can add custom channels.
+
+Web Cams - [webcams.m3u](https://raw.githubusercontent.com/fancybits/custom-channels-examples/main/webcams.m3u)
